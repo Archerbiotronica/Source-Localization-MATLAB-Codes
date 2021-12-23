@@ -1,7 +1,7 @@
 # 2D Source Localization MATLAB codes
 
-Book/Reference: 
+Book/Reference: Fundamentals Of Statistical Signal Processing --- Estimation Theory --- Stephen M. Kay() 
 
-Software Used: 
+Software Used: MATLAB R2021b 
 
-Link to video ecplaining the concepts and the codes:
+Link to video explaining the concepts and the codes:  
