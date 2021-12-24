@@ -4,4 +4,4 @@ Book/Reference: Fundamentals Of Statistical Signal Processing --- Estimation The
 
 Software Used: MATLAB R2021b 
 
-Link to video explaining the concepts and the codes:  
+Link to videos explaining the concepts and the codes: 1) https://youtu.be/2Y_6LeRHoVA  
